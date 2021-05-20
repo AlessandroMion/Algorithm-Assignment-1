@@ -77,4 +77,4 @@ print ("The magic numbers you entered were: ")
 #After this its the code that will list the total numbers and join everything together
 print ("\n".join(listtotal))
 #Finished now
-print("Thank you I hope everything went well.")
+print("Thank you I hope everything went well")
